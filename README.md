@@ -5,7 +5,7 @@ ChatGPT Tweet Scheduler is a browser-based application that automatically schedu
 ## Features
 
 - Generate posts using ChatGPT by OpenAI
-- Approve or edit generated posts before scheduling
+- Edit and approve generated posts before scheduling
 - Schedule posts with customizable intervals
 - Automatically post scheduled content to Twitter
 
