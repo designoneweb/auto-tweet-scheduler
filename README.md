@@ -24,8 +24,8 @@ ChatGPT Tweet Scheduler is a browser-based application that automatically schedu
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/auto-social-media-scheduler.git
-cd auto-social-media-scheduler
+git clone https://github.com/yourusername/auto-tweet-scheduler.git
+cd auto-tweet-scheduler
 ```
 2. Create a virtual environment and activate it:
 
